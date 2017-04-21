@@ -1,0 +1,31 @@
+tests.ViewScenariosTest	viewscenariostest	RUN	1492770965333	 	2.0
+Benchmarking all the view endpoints	5105645414384880757-0	USER	START	1492770965365	0
+Benchmarking all the view endpoints	5105645414384880757-1	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-2	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-3	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-4	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-5	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-6	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-7	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-8	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-9	USER	START	1492770965368	0
+Benchmarking all the view endpoints	5105645414384880757-2	REQUEST		Get the actual allocation values for all the markets	1492770965480	1492770965480	1492770965480	1492770965486	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-0	REQUEST		Get the actual allocation values for all the markets	1492770965430	1492770965430	1492770965430	1492770965438	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-1	REQUEST		Get the actual allocation values for all the markets	1492770965463	1492770965463	1492770965463	1492770965469	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-4	REQUEST		Get the actual allocation values for all the markets	1492770965493	1492770965493	1492770965493	1492770965513	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-5	REQUEST		Get the actual allocation values for all the markets	1492770965494	1492770965494	1492770965494	1492770965527	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-8	REQUEST		Get the actual allocation values for all the markets	1492770965499	1492770965499	1492770965499	1492770965540	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-9	REQUEST		Get the actual allocation values for all the markets	1492770965512	1492770965512	1492770965512	1492770965538	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-6	REQUEST		Get the actual allocation values for all the markets	1492770965495	1492770965495	1492770965495	1492770965533	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-3	REQUEST		Get the actual allocation values for all the markets	1492770965490	1492770965490	1492770965490	1492770965530	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-7	REQUEST		Get the actual allocation values for all the markets	1492770965497	1492770965497	1492770965497	1492770965542	KO	java.net.ConnectException: Connection refused: localhost/127.0.0.1:3000
+Benchmarking all the view endpoints	5105645414384880757-3	USER	END	1492770965368	1492770965592
+Benchmarking all the view endpoints	5105645414384880757-9	USER	END	1492770965368	1492770965592
+Benchmarking all the view endpoints	5105645414384880757-7	USER	END	1492770965368	1492770965592
+Benchmarking all the view endpoints	5105645414384880757-6	USER	END	1492770965368	1492770965592
+Benchmarking all the view endpoints	5105645414384880757-8	USER	END	1492770965368	1492770965592
+Benchmarking all the view endpoints	5105645414384880757-5	USER	END	1492770965368	1492770965594
+Benchmarking all the view endpoints	5105645414384880757-4	USER	END	1492770965368	1492770965594
+Benchmarking all the view endpoints	5105645414384880757-1	USER	END	1492770965368	1492770965594
+Benchmarking all the view endpoints	5105645414384880757-2	USER	END	1492770965368	1492770965594
+Benchmarking all the view endpoints	5105645414384880757-0	USER	END	1492770965365	1492770965594
