@@ -1,0 +1,31 @@
+tests.ViewScenariosTest	viewscenariostest	RUN	1492772237762	 	2.0
+Benchmarking all the view endpoints	7912485879235299628-0	USER	START	1492772237776	0
+Benchmarking all the view endpoints	7912485879235299628-1	USER	START	1492772237778	0
+Benchmarking all the view endpoints	7912485879235299628-2	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-3	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-4	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-5	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-6	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-7	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-8	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-9	USER	START	1492772237779	0
+Benchmarking all the view endpoints	7912485879235299628-0	REQUEST		Get the actual allocation values for all the markets	1492772237797	1492772237800	1492772237901	1492772237901	OK	 
+Benchmarking all the view endpoints	7912485879235299628-3	REQUEST		Get the actual allocation values for all the markets	1492772237801	1492772237802	1492772237913	1492772237913	OK	 
+Benchmarking all the view endpoints	7912485879235299628-2	REQUEST		Get the actual allocation values for all the markets	1492772237801	1492772237802	1492772237912	1492772237912	OK	 
+Benchmarking all the view endpoints	7912485879235299628-4	REQUEST		Get the actual allocation values for all the markets	1492772237802	1492772237803	1492772237914	1492772237914	OK	 
+Benchmarking all the view endpoints	7912485879235299628-1	REQUEST		Get the actual allocation values for all the markets	1492772237800	1492772237801	1492772237911	1492772237911	OK	 
+Benchmarking all the view endpoints	7912485879235299628-7	REQUEST		Get the actual allocation values for all the markets	1492772237804	1492772237805	1492772237916	1492772237916	OK	 
+Benchmarking all the view endpoints	7912485879235299628-6	REQUEST		Get the actual allocation values for all the markets	1492772237803	1492772237804	1492772237915	1492772237915	OK	 
+Benchmarking all the view endpoints	7912485879235299628-8	REQUEST		Get the actual allocation values for all the markets	1492772237804	1492772237805	1492772237917	1492772237917	OK	 
+Benchmarking all the view endpoints	7912485879235299628-5	REQUEST		Get the actual allocation values for all the markets	1492772237803	1492772237804	1492772237914	1492772237914	OK	 
+Benchmarking all the view endpoints	7912485879235299628-9	REQUEST		Get the actual allocation values for all the markets	1492772237805	1492772237806	1492772237918	1492772237918	OK	 
+Benchmarking all the view endpoints	7912485879235299628-5	USER	END	1492772237779	1492772237937
+Benchmarking all the view endpoints	7912485879235299628-9	USER	END	1492772237779	1492772237937
+Benchmarking all the view endpoints	7912485879235299628-7	USER	END	1492772237779	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-6	USER	END	1492772237779	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-8	USER	END	1492772237779	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-0	USER	END	1492772237776	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-4	USER	END	1492772237779	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-3	USER	END	1492772237779	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-1	USER	END	1492772237778	1492772237938
+Benchmarking all the view endpoints	7912485879235299628-2	USER	END	1492772237779	1492772237938
